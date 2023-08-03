@@ -1,0 +1,16 @@
+{
+    "name": "Summariser",
+    "version": "1.0.0",
+    "description": "This is an extension to summarise the webpage you are on",
+    "manifest_version": 3,
+    "author": "Mu Rong Ng",
+    "action": {
+        "default_popup": "index.html",
+        "default_title": "Summariser",
+        "default_icon": "icon.png"
+    },
+    "permissions": [
+        "activeTab",
+        "tabs"
+    ]
+}
